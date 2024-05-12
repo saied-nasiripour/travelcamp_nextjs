@@ -1,5 +1,26 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+--- 
+
+This project is a landing page that using:
+
+*1-* Next.js v14.2.3
+
+*2-* React.js v18
+
+*3-* Typescript
+
+*4-* UI
+- TailwindCSS,
+- Mobile first,
+- Maximum Responsiveness,
+- a Sleek UI
+
+## [Live Preview](http://localhost:3000)
+
+--- 
+
+
 ## Getting Started
 
 First, run the development server:
