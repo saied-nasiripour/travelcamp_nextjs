@@ -30,6 +30,7 @@ const Navbar = () => {
                     variant="btn_dark_green"
                 />
             </div>
+            // TODO: The hamburger menu section should be completed in the future.
             <Image
                 src="menu.svg"
                 alt="menu"
