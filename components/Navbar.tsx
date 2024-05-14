@@ -4,6 +4,7 @@ import {NAV_LINKS} from "@/constants";
 import Button from "@/components/Button";
 
 // TODO: The nav bar section is partially completed, not 100%
+// TODO: Line 34 _ The hamburger menu section should be completed in the future.
 
 const Navbar = () => {
     return (
@@ -30,7 +31,6 @@ const Navbar = () => {
                     variant="btn_dark_green"
                 />
             </div>
-            // TODO: The hamburger menu section should be completed in the future.
             <Image
                 src="menu.svg"
                 alt="menu"
